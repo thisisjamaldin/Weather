@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android13J</string>
+    <string name="daytime">Daytime</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+</resources>
